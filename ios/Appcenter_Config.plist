@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Appcenter_Config.plist
+   TestProjecAppcenter
+
+   Created by Shubham Balgujar on 15/05/22.
+   Copyright (c) 2022 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+<key>AppSecretKey</key>
+<string>fe78da0f-4b07-411a-a713-51fac7c61bfe</string>
+</dict>
+</plist>
